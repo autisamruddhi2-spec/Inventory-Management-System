@@ -1,0 +1,5 @@
+ADD: PROD001 - Laptop (Qty: 25) at Mon Jan 15 10:10:00 IST 2024
+ADD: PROD002 - Mouse (Qty: 5) at Mon Jan 15 10:12:00 IST 2024
+UPDATE: PROD001 - Quantity changed from 20 to 25 at Mon Jan 15 10:15:00 IST 2024
+ADD: PROD003 - Keyboard (Qty: 3) at Mon Jan 15 10:20:00 IST 2024
+UPDATE: PROD007 - Quantity changed from 10 to 8 at Mon Jan 15 10:25:00 IST 2024
