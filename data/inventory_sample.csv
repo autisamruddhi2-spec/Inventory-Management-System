@@ -1,0 +1,11 @@
+SKU,Name,Category,Price,Quantity
+PROD001,Laptop,Electronics,75000,25
+PROD002,Mouse,Electronics,1200,5
+PROD003,Keyboard,Electronics,2500,3
+PROD004,Monitor,Electronics,15000,12
+PROD005,Notebook,Stationery,50,100
+PROD006,Pen,Stationery,10,200
+PROD007,Printer,Electronics,18000,8
+PROD008,Desk Chair,Furniture,8500,15
+PROD009,Whiteboard,Office Supplies,3000,7
+PROD010,Water Bottle,Accessories,500,50
